@@ -1,5 +1,5 @@
 # Portfolio
-Work always in progress
+Work in progress
 ### Small projects
 
 
