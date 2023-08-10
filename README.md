@@ -1,8 +1,5 @@
 # Portfolio
 Work in progress
-### Small projects
-
-
 
 
 ### Certificates
