@@ -2,6 +2,8 @@
 Work in progress
 
 
+### Projects
+
 ### Certificates
 - [Python 101 for Data Science](https://github.com/GBlanch/Portfolio/blob/main/0.%20Certificates%20/2.CognitiveClass.ai/Python%20101%20for%20DS.pdf)
 - [SQL and Relational Databases 101](https://github.com/GBlanch/Portfolio/blob/main/0.%20Certificates%20/2.CognitiveClass.ai/SQL%20and%20relational%20DBs%20101.pdf)
