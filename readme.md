@@ -8,3 +8,12 @@ work in progress
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits.
+
+
+
+## Certificates
+
+[Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
+
+
+
