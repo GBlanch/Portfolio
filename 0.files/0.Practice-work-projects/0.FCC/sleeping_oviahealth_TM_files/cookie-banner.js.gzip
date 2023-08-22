@@ -1,0 +1,46 @@
+var form = document.getElementById('cookie-consent-form');
+if (form) {
+    form.addEventListener('submit', applyCookieSettings);
+}
+
+function applyCookieSettings(event) {
+    var allowsAnalyticsCookies = event.srcElement.elements[1].checked;
+    if (allowsAnalyticsCookies) {
+        addMatomoTagManager();
+    }
+    var allowsAdvertisingCookies = event.srcElement.elements[2].checked;
+    saveCookieSettings(allowsAnalyticsCookies, allowsAdvertisingCookies);
+    hideConsentBanner();
+    event.preventDefault();
+}
+
+function saveCookieSettings(allowsAnalyticsCookies, allowsAdvertisingCookies) {
+    var updateCookiesAjaxUrl = ajaxurl + '&analytics=' + allowsAnalyticsCookies + '&advertising=' + allowsAdvertisingCookies;
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("POST", updateCookiesAjaxUrl, true);
+    xmlhttp.send();
+}
+
+function hideConsentBanner() {
+    var cookieConsentBanner = document.getElementById('cookie-consent-banner');
+    cookieConsentBanner.className += ' cookie-consent--hide';
+}
+
+function addMatomoTagManager() {
+    var _mtm = window._mtm = window._mtm || [];
+    _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://matomo.oviahealth.com/js/container_Jd6s14Ek.js'; s.parentNode.insertBefore(g,s);
+}
+
+function addHubSpot() {
+    var hubSpotScript = document.createElement('script');
+
+    hubSpotScript.setAttribute("type", "text/javascript");
+    hubSpotScript.setAttribute("id", "hs-script-loader");
+    hubSpotScript.setAttribute("async", "");
+    hubSpotScript.setAttribute("defer", "");
+    hubSpotScript.setAttribute("src", "//js.hs-scripts.com/2840109.js");
+
+    document.head.appendChild(hubSpotScript);
+}
