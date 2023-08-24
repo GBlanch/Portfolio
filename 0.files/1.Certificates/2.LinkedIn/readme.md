@@ -1,0 +1,2 @@
+[CertificateOfCompletion_Build Your Analytical Skills with Statistical Analysis.pdf](https://github.com/GBlanch/Portfolio/files/12424808/CertificateOfCompletion_Build.Your.Analytical.Skills.with.Statistical.Analysis.pdf)
+[CertificateOfCompletion_Career Essentials in Data Analysis by Microsoft and LinkedIn.pdf](https://github.com/GBlanch/Portfolio/files/12424809/CertificateOfCompletion_Career.Essentials.in.Data.Analysis.by.Microsoft.and.LinkedIn.pdf)
