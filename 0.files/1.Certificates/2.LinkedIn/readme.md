@@ -1,4 +1,4 @@
-###All these certificates were possible thanks to the **Civic Centre Resource Library** located in Vaughan, ON, Canada.
+### All these certificates were possible thanks to the **Civic Centre Resource Library** located in Vaughan, ON, Canada.
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/44ec396e-8632-42c8-b1aa-640849377651)
 
