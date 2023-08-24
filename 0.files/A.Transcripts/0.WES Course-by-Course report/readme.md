@@ -1,0 +1,5 @@
+![WES1](https://github.com/GBlanch/Portfolio/assets/136500426/b026200e-87e3-4d24-851b-000575fdff63)
+![WES2](https://github.com/GBlanch/Portfolio/assets/136500426/7d30347d-0e0e-47b2-b7d4-bd6774754fce)
+![WES3](https://github.com/GBlanch/Portfolio/assets/136500426/49234bf1-2517-41cc-9a0a-e1b630ff4aa1)
+![WES4](https://github.com/GBlanch/Portfolio/assets/136500426/85d9eb92-5350-4b16-9c7d-1203dd93e5bc)
+![WES5](https://github.com/GBlanch/Portfolio/assets/136500426/45cda34d-e41d-4bfb-b1a4-cfe15f1fdbee)
