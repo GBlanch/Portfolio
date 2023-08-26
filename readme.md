@@ -8,7 +8,7 @@ work in progress
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits. 
-Many of the essential funcions and methods of Pandas and NumPy are shown here, as well as the fundamental plot functions within the Matplotlib and SeaBorn libraries for Python.
+Many of the essential funcions and methods of Pandas and NumPy are shown here, as well as the fundamental plot functions within the Matplotlib and Seaborn libraries for Python.
 
 #
 
