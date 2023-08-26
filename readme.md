@@ -28,5 +28,6 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 [Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/0.WES%20Course-by-Course%20report)
 
+[中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
 
 
