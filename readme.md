@@ -24,7 +24,7 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 ## Academic Transcripts
 
-[Bachelor's degree (four years) and postgraduate diploma](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/0.WES%20Course-by-Course%20report)
+[Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/0.WES%20Course-by-Course%20report)
 
 
 
