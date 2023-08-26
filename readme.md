@@ -20,6 +20,8 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 [Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/assets/136500426/91180496-f7f7-4a87-a71c-ca98e8b4e9e6)
 
+[Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
+
 ## Academic Transcripts
 
 
