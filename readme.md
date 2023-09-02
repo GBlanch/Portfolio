@@ -16,7 +16,7 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 [PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/A.PMP)
 
-[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
+[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
 [Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/3.Kaggle)
 
