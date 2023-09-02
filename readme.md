@@ -12,6 +12,11 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 #
 
+
+
+In this repository, I responded to the posed questions in some of the study cases of the 8 week SQL challenge by Data with Danny.
+From main and basic SQL syntaxis to the elaboration of more complex structures, design of CTEs and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
+
 ## Certificates
 
 [PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/A.PMP)
