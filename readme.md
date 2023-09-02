@@ -10,6 +10,10 @@ Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-explor
 In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits. 
 Many of the essential funcions and methods of Pandas and NumPy are shown here, as well as the fundamental plot functions within the Matplotlib and Seaborn libraries for Python.
 
+
+
+<img align="left" width="250" height="150" src=![image](https://github.com/GBlanch/Portfolio/assets/136500426/cc230936-ea86-4187-8f8b-6edfdae20879)>
+
 #
 
 ## Certificates
