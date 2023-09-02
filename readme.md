@@ -14,12 +14,11 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 ## Certificates
 
-[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/assets/136500426/10420b13-63d9-4fdf-8f9a-2838b00529c2)
-
+[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/A.PMP)
 
 [Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
-[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/assets/136500426/91180496-f7f7-4a87-a71c-ca98e8b4e9e6)
+[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/3.Kaggle)
 
 [World Quantum University - Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
 
@@ -32,8 +31,8 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 ## Academic Transcripts
 
-[WES - Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/0.WES%20Course-by-Course%20report)
+[WES - Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report)
 
-[中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
+[中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
 
 
