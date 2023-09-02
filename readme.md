@@ -26,8 +26,6 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 [IBM - Applied Data Science with Python - Level 2](https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile)
 
-[PMI Certfication.pdf](https://github.com/GBlanch/Portfolio/files/12502172/PMI.Certfication.pdf)
-
 
 ## Academic Transcripts
 
