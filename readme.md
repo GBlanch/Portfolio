@@ -12,7 +12,7 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 
 
-<img align="left" width="250" height="150" src=![image](https://github.com/GBlanch/Portfolio/assets/136500426/cc230936-ea86-4187-8f8b-6edfdae20879)>
+<img align="left" width="250" height="150" src="https://github.com/GBlanch/Portfolio/assets/136500426/cc230936-ea86-4187-8f8b-6edfdae20879">
 
 #
 
