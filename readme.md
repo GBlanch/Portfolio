@@ -4,7 +4,7 @@ work in progress
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
+<img align="left" width="175" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits. 
@@ -12,7 +12,7 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 #
 
-<img align="left" width="250" height="250" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/1.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
+<img align="left" width="175" height="175" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/1.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
 
 In this repository, I responded to the posed questions in some of the study cases of the 8 week SQL challenge by Data with Danny.
 From main and basic SQL syntaxis to the elaboration of more complex structures, design of CTEs and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
