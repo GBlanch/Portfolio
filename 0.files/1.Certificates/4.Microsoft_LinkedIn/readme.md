@@ -1,1 +1,0 @@
-[CertificateOfCompletion_Career Essentials in Data Analysis by Microsoft and LinkedIn.pdf](https://github.com/GBlanch/Portfolio/files/12502104/CertificateOfCompletion_Career.Essentials.in.Data.Analysis.by.Microsoft.and.LinkedIn.pdf)
