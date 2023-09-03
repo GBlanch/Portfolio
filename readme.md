@@ -12,7 +12,7 @@ Many of the essential funcions and methods of _Pandas_ and _NumPy_ are shown her
 
 #
 
-<img align="left" width="175" height="175" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/1.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
+<img align="left" width="135" height="135" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/1.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
 
 In this repository, I responded to the posed questions in some of the study cases of the 8 week SQL challenge by Data with Danny.
 From main and basic SQL syntaxis to the elaboration of more complex structures, design of CTEs and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
