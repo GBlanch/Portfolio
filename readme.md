@@ -8,7 +8,7 @@ work in progress
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits. 
-Many of the essential funcions and methods of Pandas and NumPy are shown here, as well as the fundamental plot functions within the Matplotlib and Seaborn libraries for Python.
+Many of the essential funcions and methods of _Pandas_ and _NumPy_ are shown here, as well as the fundamental plot functions within the _Matplotlib_ and _Seaborn_ libraries for Python.
 
 #
 
@@ -16,6 +16,14 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 
 In this repository, I responded to the posed questions in some of the study cases of the 8 week SQL challenge by Data with Danny.
 From main and basic SQL syntaxis to the elaboration of more complex structures, design of CTEs and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
+
+#
+
+<img align="left" width="175" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
+
+As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
+In this repository, I will showcase some of these cases using mainly the Python library _BeautifulSoup_ to parse the data mainly from HTML and XML.
+
 
 ## Certificates
 
