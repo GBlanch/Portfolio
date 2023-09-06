@@ -32,7 +32,7 @@ In this repository, I will showcase some of these cases using mainly the Python 
 
 [Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
-[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/3.Kaggle)
+[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png)
 
 [World Quantum University - Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
 
