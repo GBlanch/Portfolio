@@ -25,6 +25,14 @@ From main and basic SQL syntaxis to the elaboration of more complex structures, 
 As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
 In this repository, I will showcase some of these cases using mainly the Python library _BeautifulSoup_ to parse the data mainly from HTML and XML.
 
+#
+
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/A.pngs/for_portfolio_intro.png"> **[Data Analysis with Python]([https://github.com/GBlanch/Web-scraping/tree/main](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification))**
+
+In this course, all the fundamentals of Python within the field of DA are reviewed.
+Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.  ( 60% in progress )
+
 
 ## Certificates
 
