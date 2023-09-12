@@ -36,7 +36,7 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 ## Certificates
 
-[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/A.PMP)
+[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/PMI%20Certfication.pdf)
 
 [Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
