@@ -4,21 +4,43 @@ work in progress
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/GBlanch/Portfolio/blob/main/0.files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits. 
-Many of the essential funcions and methods of Pandas and NumPy are shown here, as well as the fundamental plot functions within the Matplotlib and Seaborn libraries for Python.
+Many of the essential funcions and methods of _Pandas_ and _NumPy_ are shown here, as well as the fundamental plot functions within the _Matplotlib_ and _Seaborn_ libraries for Python.
 
 #
 
+<img align="left" width="145" height="145" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/A.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
+
+In this repository, I responded to the posed questions in some of the study cases of the course "8 week SQL challenge" by Danny Ma (Data with Danny).
+From main and basic SQL syntaxis to the elaboration of more complex structures, design of CTEs and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
+
+#
+
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/tree/main)**
+
+As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
+In this repository, I will showcase some of these cases using mainly the Python library _BeautifulSoup_ to parse the data mainly from HTML and XML.
+
+#
+
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/A.pngs/for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
+
+In this course -and through the courtesy of freeCodeCamp - all the fundamentals of Python within the field of DA are reviewed.
+Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.  ( 60% in progress )
+
+
 ## Certificates
 
-[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/blob/main/0.files/1.Certificates/A.PMP/PMI%20Certfication.pdf)
+[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/PMI%20Certfication.pdf)
 
-[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
+[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
-[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/assets/136500426/91180496-f7f7-4a87-a71c-ca98e8b4e9e6)
+[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png)
 
 [World Quantum University - Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
 
@@ -27,11 +49,10 @@ Many of the essential funcions and methods of Pandas and NumPy are shown here, a
 [IBM - Applied Data Science with Python - Level 2](https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile)
 
 
-
 ## Academic Transcripts
 
-[WES - Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/0.WES%20Course-by-Course%20report)
+[WES - Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report)
 
-[中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
+[中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
 
 
