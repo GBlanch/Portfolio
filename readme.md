@@ -44,7 +44,7 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 [Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png)
 
-[free Code Camp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)  ( 60% in progress )**
+[free Code Camp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)  ( 60% in progress )
 
 [World Quantum University - Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
 
