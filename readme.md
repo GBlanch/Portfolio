@@ -53,7 +53,7 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 [IBM - Applied Data Science with Python - Level 2](https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile)
 
-**[IBM - R Essentials](https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile)**
+[IBM - R Essentials](https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile)
 
 
 ## Academic Transcripts
