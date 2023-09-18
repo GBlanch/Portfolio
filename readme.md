@@ -1,6 +1,7 @@
+# Portfolio - Gerry Blanch
+
 work in progress
 
-# Portfolio - Gerry Blanch
 
 ## Projects
 
