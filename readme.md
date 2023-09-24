@@ -21,7 +21,7 @@ From main and basic SQL syntaxis to the elaboration of more complex structures, 
 #
 
 
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping]([https://github.com/GBlanch/Web-scraping/tree/main](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb))**
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping]([https://github.com/GBlanch/Web-scraping/tree/main](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb)**
 
 As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
 In this repository, I will showcase some of these cases using mainly the Python library _BeautifulSoup_ to parse the data mainly from HTML and XML.
