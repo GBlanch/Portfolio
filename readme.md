@@ -21,7 +21,7 @@ From main and basic SQL syntaxis to the elaboration of more complex structures, 
 #
 
 
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/tree/main)**
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb)**
 
 As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
 In this repository, I will showcase some of these cases using mainly the Python library _BeautifulSoup_ to parse the data mainly from HTML and XML.
@@ -31,13 +31,15 @@ In this repository, I will showcase some of these cases using mainly the Python 
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/A.pngs/for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
-In this course -and through the courtesy of freeCodeCamp - all the fundamentals of Python within the field of DA are reviewed.
-Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.  ( 60% in progress )
+In this course -and through the courtesy of freeCodeCamp - the fundamentals of Python within the field of DA are reviewed.
+Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.
 
 
 ## Certificates
 
 [PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/PMI%20Certfication.pdf)
+
+[freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/certification/GBlanch/data-analysis-with-python-v7)
 
 [Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
@@ -45,13 +47,13 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 [Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png)
 
-[free Code Camp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python)  ( 60% in progress )
-
 [World Quantum University - Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
 
 [IBM - Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/d320cd32-ac1c-4361-b6be-68a2dbf29e20/linked_in_profile)
 
 [IBM - Applied Data Science with Python - Level 2](https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile)
+
+[IBM - R Essentials](https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile)
 
 
 ## Academic Transcripts
