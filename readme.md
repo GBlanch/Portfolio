@@ -39,9 +39,9 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 [PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/PMI%20Certfication.pdf)
 
-[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
-
 [freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/certification/GBlanch/data-analysis-with-python-v7)
+
+[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
 
 [Kaggle - Advanced SQL](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Advanced%20SQL.png)
 
