@@ -8,15 +8,15 @@ work in progress
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
-In this course project, I have performed basic Exploratory Data Analysis on sleeping and lifestyle habbits. 
-Many of the essential funcions and methods of _Pandas_ and _NumPy_ are shown here, as well as the fundamental plot functions within the _Matplotlib_ and _Seaborn_ libraries for Python.
+In this course project, I have performed basic `Exploratory Data Analysis` on sleeping and lifestyle habbits. 
+Many of the essential funcions and methods of `Pandas` and `NumPy` are shown here, as well as the fundamental plot functions within the `Matplotlib` and `Seaborn` libraries for `Python`.
 
 #
 
 <img align="left" width="145" height="145" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/A.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
 
 In this repository, I responded to the posed questions in some of the study cases of the course "8 week SQL challenge" by Danny Ma (Data with Danny).
-From main and basic SQL syntaxis to the elaboration of more complex structures, design of CTEs and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
+From main and basic `SQL` syntaxis to the elaboration of more complex structures, design of `CTEs` and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
 
 #
 
@@ -24,7 +24,7 @@ From main and basic SQL syntaxis to the elaboration of more complex structures, 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb)**
 
 As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
-In this repository, I will showcase some of these cases using mainly the Python library _BeautifulSoup_ to parse the data mainly from HTML and XML.
+In this repository, I will showcase some of these cases using mainly the Python library `BeautifulSoup` to parse the data mainly from HTML and XML.
 
 #
 
