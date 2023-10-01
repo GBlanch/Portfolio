@@ -55,6 +55,8 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 [IBM - R Essentials](https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile)
 
+[AWS - AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/328c80e7-1584-4b77-bf44-d844f81e7eea/linked_in_profile)
+
 
 ## Academic Transcripts
 
