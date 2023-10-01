@@ -1,4 +1,4 @@
-### The free access to all these certificates was possible thanks to the [**Civic Centre Resource Library**](https://www.vaughanpl.info/databases/view/LinkedIn_Learning) located in Vaughan, ON, Canada.
+### The free access to all these certificates was possible thanks to the courtesy of the [**Civic Centre Resource Library**](https://www.vaughanpl.info/databases/view/LinkedIn_Learning) located in Vaughan, ON, Canada.
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/44ec396e-8632-42c8-b1aa-640849377651)
 
