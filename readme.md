@@ -47,8 +47,6 @@ Although the projects were supposed to be run using Replit, I've been also using
 
 [Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png)
 
-[World Quantum University - Applied Data Science Lab](https://www.credly.com/org/wqu/badge/applied-data-science-lab)  ( 20% in progress )
-
 [IBM - Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/d320cd32-ac1c-4361-b6be-68a2dbf29e20/linked_in_profile)
 
 [IBM - Applied Data Science with Python - Level 2](https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile)
