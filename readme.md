@@ -29,7 +29,7 @@ In this repository, I will showcase some of these cases using mainly the Python 
 #
 
 
-<img align="left" width="145" height="105" src="![image](https://github.com/GBlanch/Portfolio/assets/136500426/bc24c704-558a-48b9-aa43-7ab2fd050314)
+<img align="left" width="145" height="105" src="(https://github.com/GBlanch/Portfolio/assets/136500426/bc24c704-558a-48b9-aa43-7ab2fd050314)
 "> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
 In this course -and through the courtesy of freeCodeCamp - the fundamentals of Python within the field of DA are reviewed.
