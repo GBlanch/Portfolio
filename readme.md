@@ -8,7 +8,7 @@ work in progress
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
-In this course project, I have performed basic `Exploratory Data Analysis` on sleeping and lifestyle habbits. 
+In this course project, I have performed basic `Exploratory Data Analysis` on sleeping and lifestyle habits. 
 Many of the essential funcions and methods of `Pandas` and `NumPy` are shown here, as well as the fundamental plot functions within the `Matplotlib` and `Seaborn` libraries for `Python`.
 
 #
