@@ -30,8 +30,7 @@ In this repository, I will showcase some of these cases using mainly the Python 
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
-In this course -and through the courtesy of freeCodeCamp - the fundamentals of Python within the field of DA are reviewed.
-Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.
+In this course, I assimilated the fundamentals of Python within the field of DA. Instead of using Replit - and for the benefit of time/location - I built, run and debugged my main.py files by utilizing the unit tests in my local machine within `VS Code`.
 
 
 ## Certificates
