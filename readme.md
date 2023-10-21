@@ -28,9 +28,10 @@ In this repository, I will showcase some of these cases using mainly the Python 
 
 #
 
+![image](https://github.com/GBlanch/Portfolio/assets/136500426/5367679b-fdf2-4197-a5d2-88ff8da9bddc)
 
-<img align="left" width="145" height="105" src="(![image](https://github.com/GBlanch/Portfolio/assets/136500426/06e09e90-5bb6-4112-a420-594dfcbfd85a)
-)"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
+
+<img align="left" width="145" height="105" src=![image](https://github.com/GBlanch/Portfolio/assets/136500426/5367679b-fdf2-4197-a5d2-88ff8da9bddc))"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
 In this course -and through the courtesy of freeCodeCamp - the fundamentals of Python within the field of DA are reviewed.
 Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.
