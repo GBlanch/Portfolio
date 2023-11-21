@@ -1,6 +1,6 @@
 # Portfolio - Gerry Blanch
 
-## **[Website version](https://gblanch.github.io/projects/)**
+# **[Website version](https://gblanch.github.io/projects/)**
 
 work in progress
 
