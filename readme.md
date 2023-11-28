@@ -2,7 +2,7 @@
 
 # **[Website version](https://gblanch.github.io/projects/)**
 
-work in progress
+This repo is not updated
 
 
 ## Projects
