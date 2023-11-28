@@ -1,9 +1,6 @@
 # Portfolio - Gerry Blanch
 
-This repo is not updated, visit the
-
-
-# **[Website version](https://gblanch.github.io/projects/)**
+This repo is not kept updated, visit the ### **[Website version](https://gblanch.github.io/projects/)**
 
 
 ## Projects
