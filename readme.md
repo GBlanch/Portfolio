@@ -14,29 +14,26 @@
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
-In this course project, I have performed basic `Exploratory Data Analysis` on sleeping and lifestyle habits. 
-Many of the essential funcions and methods of `Pandas` and `NumPy` are shown here, as well as the fundamental plot functions within the `Matplotlib` and `Seaborn` libraries for `Python`.
+As part of Jovian's Data Analysis with Python: Zero to Pandas course project, I performed some graphical analysis as well as inferred some preliminary trends about physical activity, heart conditions, stress levels and sleeping habbits.
 
 #
 
 <img align="left" width="145" height="145" src="https://github.com/GBlanch/SQL-weekly-challenges/blob/main/A.Files/sql-challenge-png.png"> **[SQL weekly challenges](https://github.com/GBlanch/SQL-weekly-challenges/tree/main)**
 
-In this repository, I responded to the posed questions in some of the study cases of the course "8 week SQL challenge" by Danny Ma (Data with Danny).
-From main and basic `SQL` syntaxis to the elaboration of more complex structures, design of `CTEs` and utilization of built-in functions, these series of mini-cases were a well disposed  - and yet great  - way  to review the essential knowledge of SQL.
+In this repository, I responded to the questions of the study cases of the course 8 week SQL challenge by Danny Ma. From essential SQL syntaxis to the elaboration of more intricate structures compound by CTEs, window functions and recursive queries, these challenges were a splendid way to solidify the hands-on core knowledge in SQL.
 
 #
 
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb)**
 
-As part of the ETL process, web scraping can play an important role to obtain the right information at the extracting stage. 
-In this repository, I will showcase some of these cases using mainly the Python library `BeautifulSoup` to parse the data mainly from HTML and XML.
+The purpose of this repository is to showcase some examples of web scraping I created. Some of its best and preferable practices are also detailed along the narration of the markdown file.
 
 #
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
-In this course, I assimilated the fundamentals of Python within the field of DA. Instead of using Replit - and for the benefit of time/location - I built, run and debugged my main.py files by utilizing the unit tests in my local machine within `VS Code`.
+In this course from freeCodeCamp, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.
 
 
 ## Certificates
