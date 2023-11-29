@@ -8,4 +8,7 @@
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/1efe4502-34ed-49ac-94d8-2d86d060e250)
 
+![image](https://github.com/GBlanch/Portfolio/assets/136500426/7da29f32-ea56-46c0-a545-a2fc28c3343f)
+
+
 
