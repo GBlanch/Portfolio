@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-This repo is not being kept updated, visit the **[Website version](https://gblanch.github.io/projects/)**
+## This repo is not being kept up to date, visit the **[Website version](https://gblanch.github.io/projects/)**
 
 &nbsp;
 &nbsp;
