@@ -1,14 +1,20 @@
 # Portfolio - Gerry Blanch
 
-work in progress
 
+&nbsp;
+&nbsp;
+
+This repo is not being kept updated, visit the **[Website version](https://gblanch.github.io/projects/)**
+
+&nbsp;
+&nbsp;
 
 ## Projects
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
-In this course project, I have performed basic `Exploratory Data Analysis` on sleeping and lifestyle habbits. 
+In this course project, I have performed basic `Exploratory Data Analysis` on sleeping and lifestyle habits. 
 Many of the essential funcions and methods of `Pandas` and `NumPy` are shown here, as well as the fundamental plot functions within the `Matplotlib` and `Seaborn` libraries for `Python`.
 
 #
@@ -28,11 +34,9 @@ In this repository, I will showcase some of these cases using mainly the Python 
 
 #
 
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification/blob/main/A.pngs/for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
-
-In this course -and through the courtesy of freeCodeCamp - the fundamentals of Python within the field of DA are reviewed.
-Although the projects were supposed to be run using Replit, I've been also using VS to elaborate and debug these.
+In this course, I assimilated the fundamentals of Python within the field of DA. Instead of using Replit - and for the benefit of time/location - I built, run and debugged my main.py files by utilizing the unit tests in my local machine within `VS Code`.
 
 
 ## Certificates
