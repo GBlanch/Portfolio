@@ -43,8 +43,8 @@
 In this course from <em>freeCodeCamp</em>, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. 
 Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.</p>
 </div>
-
-
+#
+<h2 id="test" style = "clear : both; "></h2
 #
 
 <p><strong><a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">SQL weekly challenges</a></strong></p>
@@ -56,8 +56,9 @@ In this repository, I responded to the questions of the study cases of the cours
 From essential SQL syntaxis to the elaboration of more intricate structures compound by CTEs, window functions and recursive queries, these challenges were a splendid way to solidify the hands-on core knowledge in SQL.</p>
 </div>
 </div>
-
+#
 <h2 id="test" style = "clear : both; "></h2>
+
 
 <p><strong><a href="https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023">EDA on Sleep health and lifestyle</a></strong></p>
 <div class="container_row">
