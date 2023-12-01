@@ -117,10 +117,11 @@ In this repo, I summarized the syllabus of the hands-on courses in Data Science 
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Data Analysis</a></li>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Cybersecurity</a></li>
 
-## Academic Transcripts
-
-[WES - Bachelor's degree (four years) and postgraduate diploma (one semester)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report)
-
-[中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
+<h2 id="academic-transcripts">Academic Transcripts</h2>
+<ul>
+<li><a href="https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/0.WES%20Course-by-Course%20report">WES - Bachelors of Science in Mech. Engineering and postgraduate in Renewable Energies</a></li>
+<li><a href="https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202">中外语言交流合作中心 - 汉语水平考试 （二级) </a></li>
+</ul> 
+</div>
 
 
