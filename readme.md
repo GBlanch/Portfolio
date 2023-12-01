@@ -60,7 +60,7 @@
 
   <p><strong><a href="https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023">EDA on Sleep health and lifestyle</a></strong></p>
   <div class="container_row">
-      <img class="project_m" align="left" width="200" height="150" src="images/oviahealth_TM.jpg" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/oviahealth_TM.jpg" style="padding-right: 1em;padding-bottom: 1em;">
 
       <div class="text">
         As part of Jovian's <em> Data Analysis with Python: Zero to Pandas</em> course project, I performed some graphical analysis as well as inferred some preliminary trends about physical activity, heart conditions, stress levels and sleeping habbits. 
@@ -72,7 +72,7 @@
  
   <p><strong><a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">Python with BeautifulSoup for Web Scraping</a></strong></p>
   <div class="container_row">
-      <img class="project_m" align="left" width="200" height="150" src="images/web_scraping.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/web_scraping.png" style="padding-right: 1em;padding-bottom: 1em;">
 
       <div class="text">
         The purpose of this repository is to showcase some examples of web scraping I created. Some of its best and preferable practices are also detailed along the narration of the markdown file.</p>
@@ -85,7 +85,7 @@
 
   <p><strong><a href="https://github.com/GBlanch/GCP-Uber-Data-Engineering-project">GCP Uber end-to-end pipeline</a></strong></p>
   <div class="container_row">
-      <img class="project_m" align="left" width="200" height="150" src="images/GCP_Mage.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/GCP_Mage.png" style="padding-right: 1em;padding-bottom: 1em;">
 
       <div class="text">
        In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. The orchestration of the ETL process is executed with Mage.<p>
@@ -95,7 +95,7 @@
 
   <p><strong><a href="https://github.com/GBlanch/Azure-Tokyo-Olympics-Data-Engineering-project">Azure Tokyo Olympics end-to-end pipeline</a></strong></p>
   <div class="container_row">
-      <img class="project_m" align="left" width="200" height="150" src="images/Azure.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/Azure.png" style="padding-right: 1em;padding-bottom: 1em;">
       
       <div class="text">
         From data ingestion into Data Factory to dashboarding within Synape Analytics, in this project I elaborated an end-to-end data pipeline utilizing resources from Microsoft Azure. Apache Spark is employed for data processing.  </p>
@@ -108,7 +108,7 @@
 <p><strong><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab/tree/main">WorldQuant University Applied DS Lab projects</a></strong></p>
 </a></strong></p>
 <div class="container_row">
-  <img class="project_m" align="left" width="200" height="150" src="images/wqu.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/wqu.png" style="padding-right: 1em;padding-bottom: 1em;">
 <div class="text">
   In this repo, I summarized the syllabus of the hands-on courses in Data Science I took at WQU. Due to the Copyright Licenses and Policies of WQU, no piece of IDE content/code ran or deployed in any course is permitted to be published.</p>
 </div>
@@ -117,7 +117,7 @@
 
 <p><strong><a href="https://github.com/GBlanch/Statistical-Methods">Statistical Methods and Machine Learning</Leg></a></strong></p>
 <div class="container_row">
-  <img class="project_m" align="left" width="200" height="150" src="images/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
 <div class="text">
   In this repo, I delve into some of the core concepts of Statistics and Probability I took during my Bachelors of Science in Mechanical Engineering. Without that essential knowledge, it would have been tougher to catch up with the most common methodologies utilized in Data Science and Machine Learning. </p>
 </div>
