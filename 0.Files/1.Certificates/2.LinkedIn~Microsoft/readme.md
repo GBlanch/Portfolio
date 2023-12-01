@@ -6,6 +6,8 @@
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/4170195c-e572-417b-9f1d-0b24224cb50e)
 
+![image](https://github.com/GBlanch/Portfolio/assets/136500426/8549fa1a-2ddb-4ba2-bb54-805f826053ac)
+
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/1efe4502-34ed-49ac-94d8-2d86d060e250)
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/7da29f32-ea56-46c0-a545-a2fc28c3343f)
