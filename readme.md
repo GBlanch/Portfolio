@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-## This repo may not be kept up to date, better visit the **[Website version](https://gblanch.github.io/projects/)**
+## This repo may not be kept up to date, better visit the **[Website version](https://gblanch.github.io/projects/)** I host on GitHub Pages
 
 &nbsp;
 &nbsp;
