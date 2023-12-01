@@ -9,6 +9,26 @@
 &nbsp;
 &nbsp;
 
+  <h2 id="core-competencies">Core Competencies</h2>
+  <ul>
+  <li><strong>Languages</strong>: Python, SQL, Bash, R </li>
+  <li><strong>Methodologies</strong>: EDA, CRUD, Web Scraping, Statistical Methods, Probability, Machine Learning, Time Series Analysis </li>
+  <li><strong>Tools</strong> 
+  <ul>
+  <li><strong>IDE</strong> : VS Code, Jupyter Notebook</li>
+  <li><strong>CLI</strong> : Git Bash</li>
+  <li><strong>DB Management</strong> : PostgreSQL, SQL Server, MongoDB </li>
+  <li><strong>Visualization</strong> : PowerBI, Excel, Tableau </li>
+  <li><strong>Cloud Resources</strong> 
+  <ul>
+  <li><strong>Storage</strong> : Cloud Storage, S3 </li>
+  <li><strong>Computing</strong> : Compute Engine, EC2 </li>
+  <li><strong>Warehouse</strong> : BigQuery, Redshift</li>
+  <li><strong>Analytics</strong> : Analytics/Looker Studio, Athena</li>
+  </ul>
+  </ul>
+  </ul>
+
 ## Projects
 ### Data Analysis
 
