@@ -10,9 +10,9 @@
 &nbsp;
 
 
-<p align="center">
-  <h2 id="core-competencies">Core Competencies</h2>
-</p>
+
+<h2 id="core-competencies">Core Competencies</h2>
+
 
   <li><strong>Languages</strong>: Python, SQL, Bash, R </li>
   <li><strong>Methodologies</strong>: EDA, CRUD, Web Scraping, Statistical Methods, Probability, Machine Learning, Time Series Analysis </li>
