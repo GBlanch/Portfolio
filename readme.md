@@ -68,7 +68,7 @@ test
 
 <p><strong><a href="https://github.com/GBlanch/Statistical-Methods">Statistical Methods and Machine Learning</Leg></a></strong></p>
 <div class="container_row">
-  <img class="project_m" align="left" width="200" height="150" src="images/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
 <div class="text">
   In this repo, I delve into some of the core concepts of Statistics and Probability I took during my Bachelors of Science in Mechanical Engineering. Without that essential knowledge, it would have been tougher to catch up with the most common methodologies utilized in Data Science and Machine Learning. </p>
 </div>
