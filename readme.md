@@ -97,18 +97,3 @@ In this repo, I summarized the syllabus of the hands-on courses in Data Science 
 [中外语言交流合作中心 - 汉语水平考试 （二级)](https://github.com/GBlanch/Portfolio/tree/main/0.Files/A.Transcripts/2.%20%E6%B1%89%E8%AF%AD%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%20%EF%BC%88%E4%BA%8C%E7%BA%A7%EF%BC%89%20-%20HSK%202)
 
 
-test
-
-
-<p><strong><a href="https://github.com/GBlanch/Statistical-Methods">Statistical Methods and Machine Learning</Leg></a></strong></p>
-<div class="container_row">
-  <img class="project_m" align="left" width="200" height="150" src="assets/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
-<div class="text">
-  In this repo, I delve into some of the core concepts of Statistics and Probability I took during my Bachelors of Science in Mechanical Engineering. Without that essential knowledge, it would have been tougher to catch up with the most common methodologies utilized in Data Science and Machine Learning. </p>
-</div>
-</ul>
-<h2 id="test" style = "clear : both; "></h2>
-
-end of test
-
-
