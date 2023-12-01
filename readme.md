@@ -30,10 +30,13 @@
   </ul>
 
 ## Projects
+
+#
+
 ### Data Analysis
 
 
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python projects](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
 In this course from freeCodeCamp, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.
 
