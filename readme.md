@@ -45,6 +45,8 @@ Instead of using Replit - and in the interest of time/location - I built, run, d
 </div>
 <h2 id="test" style = "clear : both;"></h2>
 
+#
+
 <p><strong><a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">SQL weekly challenges</a></strong></p>
 <div class="container_row">
 <img class="project_m" align="left" width="200" height="150" src="images/sql-challenge-png.png" style="padding-right: 1em;padding-bottom: 1em;">
