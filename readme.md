@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-## This repo is not being kept up to date, visit the **[Website version](https://gblanch.github.io/projects/)**
+## This repo is not being kept up to date, better visit the **[Website version](https://gblanch.github.io/projects/)**
 
 &nbsp;
 &nbsp;
@@ -38,23 +38,22 @@ In this course from freeCodeCamp, I assimilated good foundational hands-on knowl
 
 ## Certificates
 
-[PMI - Project Management Professional (PMP®)](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/PMI%20Certfication.pdf)
-
-[freeCodeCamp - Data Analysis with Python](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/DA_with_Python_fCC_GBA.png)
-
-[Jovian - Data Analysis with Python: Zero to Pandas](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf)
-
-[Kaggle - Advanced SQL](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Advanced%20SQL.png)
-
-[Kaggle - Intro to Machine Learning](https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png)
-
-[IBM - Data Science Foundations - Level 2 (V2)](https://www.credly.com/badges/d320cd32-ac1c-4361-b6be-68a2dbf29e20/linked_in_profile)
-
-[IBM - Applied Data Science with Python - Level 2](https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile)
-
-[IBM - R Essentials](https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile)
-
-[AWS - Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/328c80e7-1584-4b77-bf44-d844f81e7eea/linked_in_profile)
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/readme.md">PMI - Project Management Professional (PMP®)</a></li>
+  <li><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-specialty">AWS - Certified Machine Learning - Specialty (CML)</a> ( in progress ) 
+  <li><a href="https://www.credly.com/badges/7328a336-0942-4476-ad81-b7db5f1c1381/linked_in_profile">AWS - Certified Cloud Practitioner (CCP)</a> 
+  <li><a href="https://www.credly.com/badges/328c80e7-1584-4b77-bf44-d844f81e7eea/linked_in_profile">AWS - Cloud Quest: Cloud Practitioner</a>
+  <li><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab#readme">WorldQuant University  - Applied Data Science Lab </a>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/DA_with_Python_fCC_GBA.png">freeCodeCamp - Data Analysis with Python</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf">Jovian - Data Analysis with Python: Zero to Pandas</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Advanced%20SQL.png">Kaggle - Advanced SQL</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">LinkedIn - Master Microsoft Excel</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">LinkedIn - Build  your Analytical Skills with Statistical Analysis</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Data Analysis</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Cybersecurity</a></li>
+  <li><a href="https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile">IBM CognitiveClass - Applied Data Science with Python</a>
+  <li><a href="https://www.credly.com/badges/d320cd32-ac1c-4361-b6be-68a2dbf29e20/linked_in_profile">IBM CognitiveClass - Data Science Foundations </a></li>
+  <li><a href="https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile">IBM CognitiveClass - R Essentials</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png">Kaggle - Intro to Machine Learning</a></li>
 
 
 ## Academic Transcripts
