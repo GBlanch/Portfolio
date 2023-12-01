@@ -43,8 +43,7 @@
 In this course from <em>freeCodeCamp</em>, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. 
 Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.</p>
 </div>
-</ul>
-<h2 id="test" style = "clear : both; "></h2>
+<h2 id="test" style = "clear : both;"></h2>
 
 <p><strong><a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">SQL weekly challenges</a></strong></p>
 <div class="container_row">
