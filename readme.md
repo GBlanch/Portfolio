@@ -12,6 +12,13 @@
 ## Projects
 ### Data Analysis
 
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
+
+In this course from freeCodeCamp, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.
+
+#
+
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
@@ -25,16 +32,11 @@ In this repository, I responded to the questions of the study cases of the cours
 
 #
 
-
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/580x348-Image_by_D.Tarasov%20_from_PrivateProxy.me.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb)**
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/assets/web_scraping.png"> **[Web Scraping](https://github.com/GBlanch/Web-scraping/blob/main/1.List%20of%20best-selling%20books/web_scraping_04AUG2023.ipynb)**
 
 The purpose of this repository is to showcase some examples of web scraping I created. Some of its best and preferable practices are also detailed along the narration of the markdown file.
 
 #
-
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
-
-In this course from freeCodeCamp, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.
 
 
 ### Data Engineering
