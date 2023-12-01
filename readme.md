@@ -74,7 +74,8 @@ The purpose of this repository is to showcase some examples of web scraping I cr
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/assets/Azure.png"> **[Azure Tokyo Olympics end-to-end pipeline](https://github.com/GBlanch/Azure-Tokyo-Olympics-Data-Engineering-project)**
 
- In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. The orchestration of the ETL process is executed with Mage
+From data ingestion into Data Factory to dashboarding within Synape Analytics, in this project I elaborated an end-to-end data pipeline utilizing resources from Microsoft Azure. Apache Spark is employed for data processing.
+
 
 #
 
