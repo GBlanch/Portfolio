@@ -10,6 +10,7 @@
 &nbsp;
 
 ## Projects
+### Data Analysis
 
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python:
 Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
@@ -34,6 +35,33 @@ The purpose of this repository is to showcase some examples of web scraping I cr
 <img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
 
 In this course from freeCodeCamp, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.
+
+
+### Data Engineering
+
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/assets/GCP_Mage.png"> **[GCP Uber end-to-end pipeline](https://github.com/GBlanch/GCP-Uber-Data-Engineering-project)**
+
+ In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. The orchestration of the ETL process is executed with Mage
+
+
+#
+
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/assets/Azure.png"> **[Azure Tokyo Olympics end-to-end pipeline](https://github.com/GBlanch/Azure-Tokyo-Olympics-Data-Engineering-project)**
+
+ In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. The orchestration of the ETL process is executed with Mage
+
+
+#
+
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Web-scraping/blob/main/0.Files/0.images/fCC_%20for_portfolio_intro.png"> **[fCC: Data Analysis with Python](https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification)**
+
+In this course from freeCodeCamp, I assimilated good foundational hands-on knowledge of Python specialized in the field of DA. Instead of using Replit - and in the interest of time/location - I built, run, debugged my main.py files and validate these against their unit tests using VS Code in my local machine.
+
+
+### Data Science
+
 
 
 ## Certificates
