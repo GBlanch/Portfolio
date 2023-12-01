@@ -28,7 +28,6 @@
   </ul>
   </ul>
   </ul>
-#
 
 ## Projects
 
