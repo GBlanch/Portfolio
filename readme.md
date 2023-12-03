@@ -103,7 +103,6 @@ In this repo, I summarized the syllabus of the hands-on courses in Data Science 
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/readme.md">PMI - Project Management Professional (PMP®)</a></li>
 <li><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-specialty">AWS - Certified Machine Learning - Specialty (CML)</a> ( in progress ) 
 <li><a href="https://www.credly.com/badges/7328a336-0942-4476-ad81-b7db5f1c1381/linked_in_profile">AWS - Certified Cloud Practitioner (CCP)</a> 
-<li><a href="https://www.credly.com/badges/328c80e7-1584-4b77-bf44-d844f81e7eea/linked_in_profile">AWS - Cloud Quest: Cloud Practitioner</a>
 <li><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab#readme">WorldQuant University  - Applied Data Science Lab </a>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/DA_with_Python_fCC_GBA.png">freeCodeCamp - Data Analysis with Python</a></li>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf">Jovian - Data Analysis with Python: Zero to Pandas</a></li>
