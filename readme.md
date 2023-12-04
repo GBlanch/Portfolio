@@ -112,7 +112,6 @@ In this repo, I summarized the syllabus of the hands-on courses in Data Science 
 <li><a href="https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile">IBM CognitiveClass - R Essentials</a></li>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png">Kaggle - Intro to Machine Learning</a></li>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">LinkedIn - Master Microsoft Excel</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">LinkedIn - Build  your Analytical Skills with Statistical Analysis</a></li>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Data Analysis</a></li>
 <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Cybersecurity</a></li>
 
