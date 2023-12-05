@@ -1,4 +1,4 @@
-## The free access to all these certificates was possible thanks to the courtesy of the [**Vaughan Public Library**](https://www.vaughanpl.info/databases/view/LinkedIn_Learning) located in Vaughan, ON, Canada.
+## The free access to all these certificates was possible thanks to the courtesy of the [**Vaughan Public Library**](https://www.vaughanpl.info/databases/view/LinkedIn_Learning)
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/8784a9ed-8f89-45b8-8a9d-6b412e1352ec)
 
