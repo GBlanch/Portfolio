@@ -2,7 +2,7 @@
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/6a05d75c-0986-425d-8d1e-f3a62f7624b5)
 
-![image](https://github.com/GBlanch/Portfolio/assets/136500426/4170195c-e572-417b-9f1d-0b24224cb50e)
+![image](https://github.com/GBlanch/Portfolio/assets/136500426/cbdfbb57-8cc6-45fe-968f-50a43b2005f9)
 ### [See the excercises of the courses here](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/0.course_files/0.Essentials%20in%20DA)
 
 
