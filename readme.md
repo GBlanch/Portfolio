@@ -42,7 +42,7 @@ In this course from freeCodeCamp, I assimilated good foundational hands-on knowl
 
 #
 
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python: Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/assets/oviahealth_TM.jpg"> **[EDA with Python: Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 As part of Jovian's Data Analysis with Python: Zero to Pandas course project, I performed some graphical analysis as well as inferred some preliminary trends about physical activity, heart conditions, stress levels and sleeping habbits.
 
