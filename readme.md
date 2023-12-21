@@ -1,12 +1,10 @@
 # Portfolio - Gerry Blanch
 
 
-&nbsp;
-&nbsp;
 
-## This repo may not be kept up to date, better visit the **[Website version](https://gblanch.github.io/projects/)** I host on GitHub Pages
+### This repo may not be kept up to date, better visit the **[Website version](https://gblanch.github.io/projects/)** I host on GitHub Pages
 
-&nbsp;
+
 &nbsp;
 
 
@@ -44,7 +42,7 @@ In this course from freeCodeCamp, I assimilated good foundational hands-on knowl
 
 #
 
-<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/0.Files/0.Practice-work-projects/0.FCC/oviahealth_TM.jpg"> **[EDA with Python: Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
+<img align="left" width="145" height="105" src="https://github.com/GBlanch/Portfolio/blob/main/assets/oviahealth_TM.jpg"> **[EDA with Python: Sleep health and lifestyle](https://jovian.com/g-blandugar/course-project-exploratory-data-analysis-03aug2023)**
 
 As part of Jovian's Data Analysis with Python: Zero to Pandas course project, I performed some graphical analysis as well as inferred some preliminary trends about physical activity, heart conditions, stress levels and sleeping habbits.
 
@@ -100,20 +98,24 @@ In this repo, I summarized the syllabus of the hands-on courses in Data Science 
 
 ## Certificates
 
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/readme.md">PMI - Project Management Professional (PMP®)</a></li>
-<li><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-specialty">AWS - Certified Machine Learning - Specialty (CML)</a> ( in progress ) 
-<li><a href="https://www.credly.com/badges/7328a336-0942-4476-ad81-b7db5f1c1381/linked_in_profile">AWS - Certified Cloud Practitioner (CCP)</a> 
-<li><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab#readme">WorldQuant University  - Applied Data Science Lab </a>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/DA_with_Python_fCC_GBA.png">freeCodeCamp - Data Analysis with Python</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf">Jovian - Data Analysis with Python: Zero to Pandas</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Advanced%20SQL.png">Kaggle - Advanced SQL</a></li>
-<li><a href="https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile">IBM CognitiveClass - Applied Data Science with Python</a>
-<li><a href="https://www.credly.com/badges/d320cd32-ac1c-4361-b6be-68a2dbf29e20/linked_in_profile">IBM CognitiveClass - Data Science Foundations </a></li>
-<li><a href="https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile">IBM CognitiveClass - R Essentials</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png">Kaggle - Intro to Machine Learning</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">LinkedIn - Master Microsoft Excel</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Data Analysis</a></li>
-<li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Cybersecurity</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/A.PMP/readme.md">PMI - Project Management Professional (PMP®)</a></li>
+  <li><a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-machine-learning-specialty">AWS - Certified Machine Learning - Specialty (CML)</a> ( in progress ) 
+  <li><a href="https://www.credly.com/badges/7328a336-0942-4476-ad81-b7db5f1c1381/linked_in_profile">AWS - Certified Cloud Practitioner (CCP)</a> 
+  <li><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab#readme">WorldQuant University  - Applied Data Science Lab </a>
+  <li><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">freeCodeCamp - Machine Learning with Python</a> ( in progress )
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/DA_with_Python_fCC_GBA.png">freeCodeCamp - Data Analysis with Python</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/0.FCC/Jovian_with_FFC_certificate%20_GBA.pdf">Jovian - Data Analysis with Python: Zero to Pandas</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Advanced%20SQL.png">Kaggle - Advanced SQL</a></li>
+  <li><a href="https://www.credly.com/badges/4378b6b3-0a2a-4aaf-96b1-f839fe201a63/linked_in_profile">IBM CognitiveClass - Applied Data Science with Python</a>
+  <li><a href="https://www.credly.com/badges/d320cd32-ac1c-4361-b6be-68a2dbf29e20/linked_in_profile">IBM CognitiveClass - Data Science Foundations </a></li>
+  <li><a href="https://www.credly.com/badges/8234bcee-2bd1-49df-960e-e7a03c95c058/linked_in_profile">IBM CognitiveClass - R Essentials</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/3.Kaggle/Gerry%20Blanch%20-%20Intro%20to%20Machine%20Learning.png">Kaggle - Intro to Machine Learning</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">LinkedIn - Master Microsoft Excel</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Data Analysis</a></li>
+  <li><a href="https://github.com/GBlanch/Portfolio/blob/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/readme.md">Microsoft and LinkedIn - Career Essentials in Cybersecurity</a></li>
+  <li><a href="https://www.credly.com/org/isc2/badge/certified-in-cybersecurity-cc#:~:text=It%20proves%20to%20organizations%20that,standards%20in%20their%20beginning%20roles.">ISC2 - Certified in Cybersecurity (CC)</a> ( in progress )
+
+
 
 <h2 id="academic-transcripts">Academic Transcripts</h2>
 <ul>
