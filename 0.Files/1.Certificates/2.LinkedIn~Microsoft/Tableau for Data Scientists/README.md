@@ -4,7 +4,7 @@
 
 &nbsp;    
 &nbsp;
-![image](![image](https://github.com/GBlanch/Portfolio/assets/136500426/efc01052-d76d-4e4a-96c3-45fcc08fd20a)
+(![image](https://github.com/GBlanch/Portfolio/assets/136500426/efc01052-d76d-4e4a-96c3-45fcc08fd20a)
 
 ### [See the excercises of the courses here](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/0.course_files/1.Master%20MExcel)
 
