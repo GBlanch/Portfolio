@@ -9,4 +9,6 @@
 
 ### [See the excercises of the courses here](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/Tableau%20for%20Data%20Scientists/0.%20Course%20files)
 
+### [See my Tableau Public profile](https://public.tableau.com/app/profile/gerard.blanch/vizzes)
+
 
