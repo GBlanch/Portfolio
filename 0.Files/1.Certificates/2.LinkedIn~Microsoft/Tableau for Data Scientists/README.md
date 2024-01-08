@@ -5,10 +5,11 @@
 &nbsp;    
 &nbsp;
 
-![image](https://github.com/GBlanch/Portfolio/assets/136500426/efc01052-d76d-4e4a-96c3-45fcc08fd20a)
-
 ### [See the excercises of the courses here](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/Tableau%20for%20Data%20Scientists/0.%20Course%20files)
 
 ### [See my Tableau Public profile here](https://public.tableau.com/app/profile/gerard.blanch/vizzes)
+
+
+![image](https://github.com/GBlanch/Portfolio/assets/136500426/efc01052-d76d-4e4a-96c3-45fcc08fd20a)
 
 
