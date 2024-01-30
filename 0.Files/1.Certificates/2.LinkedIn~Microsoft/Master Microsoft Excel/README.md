@@ -5,7 +5,7 @@
 &nbsp;    
 &nbsp;
 
-### [See the excercises of the courses here](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/Master%20Microsoft%20Excel/0.%20Course%20files)
+## [See the excercises of the courses here](https://github.com/GBlanch/Portfolio/tree/main/0.Files/1.Certificates/2.LinkedIn~Microsoft/Master%20Microsoft%20Excel/0.%20Course%20files)
 
 ![image](https://github.com/GBlanch/Portfolio/assets/136500426/7da29f32-ea56-46c0-a545-a2fc28c3343f)
 
