@@ -120,18 +120,18 @@
         in this project I elaborated an end-to-end data pipeline utilizing resources from Microsoft Azure. Apache Spark was employed for data processing. </p>
       </div>
 
-      <h2 id="test" style = "clear : both; "></h2>
+  <h2 id="test" style = "clear : both; "></h2>
 
-      <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
-      <div class="container_row">
-        <a href="https://github.com/GBlanch/data-engineering-zoomcamp">
-          <img class="project_m" align="left" width="200" height="150" src="assets/de-zoomcamp.png" style="padding-right: 1em;padding-bottom: 1em;">
-        </a>
-          <div class="text">
-            After brushing up hands-on concepts on Containerization, Workflow orchestration, Data warehousing and Analytics engineering,
-            in the final section of this bootcamp I'm elaborating an end-to-end data pipeline with OLAP integration
-            by means of Terraform as IaC and Cloud Run as serverless compute platform, amongst other frameworks and resources. </p>
-          </div>
+  <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
+  <div class="container_row">
+    <a href="https://github.com/GBlanch/data-engineering-zoomcamp">
+      <img class="project_m" align="left" width="200" height="150" src="assets/de-zoomcamp.png" style="padding-right: 1em;padding-bottom: 1em;">
+    </a>
+      <div class="text">
+        After brushing up hands-on concepts on Containerization, Workflow orchestration, Data warehousing and Analytics engineering,
+        in the final section of this bootcamp I'm elaborating an end-to-end data pipeline with OLAP integration
+        by means of Terraform as IaC and Cloud Run as serverless compute platform, amongst other frameworks and resources. </p>
+      </div>
 
 
   </div>
