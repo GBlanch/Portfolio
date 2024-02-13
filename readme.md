@@ -39,7 +39,7 @@
   <p><strong><a href="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification#readme">freeCodeCamp DA challenges</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification#readme">
-      <img class="project_m" align="left" width="200" height="150" src="images/fCC-box-plot.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/fCC-box-plot.png" style="padding-right: 1em;padding-bottom: 1em;">
     </a>
       <div class="text">
         Good foundational hands-on knowledge of Data Analysis with Python. 
@@ -53,7 +53,7 @@
   <p><strong><a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">SQL weekly case studies</a></strong></p>
   <div class="container_row">
       <a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">
-          <img class="project_m" align="left" width="200" height="150" src="images/sql-challenge.png" style="padding-right: 1em; padding-bottom: 1em;">
+          <img class="project_m" align="left" width="200" height="150" src="assets/sql-challenge.png" style="padding-right: 1em; padding-bottom: 1em;">
       </a>
       <div class="text">
           In this repository, I responded to the questions of the study cases of the course <em>8 week SQL challenge</em> by <em>Danny Ma</em>. 
@@ -68,7 +68,7 @@
   <p><strong><a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">Web Scraping</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">
-      <img class="project_m" align="left" width="200" height="150" src="images/web_scraping.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/web_scraping.png" style="padding-right: 1em;padding-bottom: 1em;">
     </a>
       <div class="text">
         The purpose of this repository is to showcase some examples of Web Scraping I created by utilizing Python with BeautifulSoup. 
@@ -83,7 +83,7 @@
   <p><strong><a href="https://github.com/GBlanch/Dashboard-works/blob/main/README.md">Dashboard works</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Dashboard-works/blob/main/README.md">
-      <img class="project_m" align="left" width="200" height="150" src="images/dashboarding.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/dashboarding.png" style="padding-right: 1em;padding-bottom: 1em;">
     </a>
       <div class="text">
         In this repo, I showcase some of the off-work dashboard creations I elaborated so far using mainly Tableau. The common denominator of these micro-projects is the use of 
@@ -101,7 +101,7 @@
   <p><strong><a href="https://github.com/GBlanch/GCP-Uber-Data-Engineering-project">GCP Uber end-to-end pipeline</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/GCP-Uber-Data-Engineering-project">
-      <img class="project_m" align="left" width="200" height="150" src="images/GCP_Mage.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/GCP_Mage.png" style="padding-right: 1em;padding-bottom: 1em;">
     </a>
       <div class="text">
        In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. 
@@ -113,7 +113,7 @@
   <p><strong><a href="https://github.com/GBlanch/Azure-Tokyo-Olympics-Data-Engineering-project">Azure Tokyo Olympics end-to-end pipeline</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Azure-Tokyo-Olympics-Data-Engineering-project">
-      <img class="project_m" align="left" width="200" height="150" src="images/Azure.png" style="padding-right: 1em;padding-bottom: 1em;">
+      <img class="project_m" align="left" width="200" height="150" src="assets/Azure.png" style="padding-right: 1em;padding-bottom: 1em;">
     </a>
       <div class="text">
         From data ingestion into Data Factory to a brief elaboration of some Charts and Graphs within Synapse Analytics, 
@@ -125,7 +125,7 @@
       <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
       <div class="container_row">
         <a href="https://github.com/GBlanch/data-engineering-zoomcamp">
-          <img class="project_m" align="left" width="200" height="150" src="images/de-zoomcamp.png" style="padding-right: 1em;padding-bottom: 1em;">
+          <img class="project_m" align="left" width="200" height="150" src="assets/de-zoomcamp.png" style="padding-right: 1em;padding-bottom: 1em;">
         </a>
           <div class="text">
             After brushing up hands-on concepts on Containerization, Workflow orchestration, Data warehousing and Analytics engineering,
@@ -144,7 +144,7 @@
 </a></strong></p>
 <div class="container_row">
   <a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab/tree/main">
-  <img class="project_m" align="left" width="200" height="150" src="images/wqu.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/wqu.png" style="padding-right: 1em;padding-bottom: 1em;">
 </a>
 <div class="text">
   In this repo, I summarized the syllabus of the hands-on courses in Data Science I took at WQU. 
@@ -157,7 +157,7 @@
 <p><strong><a href="https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification">fCC Machine Learning challenges</Leg></a></strong></p> 
 <div class="container_row">
   <a href="https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification">
-  <img class="project_m" align="left" width="200" height="150" src="images/fcc-replit.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/fcc-replit.png" style="padding-right: 1em;padding-bottom: 1em;">
   </a>
 <div class="text">
   In this course, I employed TensorFlow framework to build several Neural Networks and explore more advanced techniques like Natural Language Processing and Reinforcement Learning. 
@@ -172,7 +172,7 @@
 <p><strong><a href="https://github.com/GBlanch/Student-Performance-Predictor/tree/main">End-to-End MLOps project  </Leg></a></strong></p> 
 <div class="container_row">
   <a href="https://github.com/GBlanch/Student-Performance-Predictor/tree/main">
-  <img class="project_m" align="left" width="200" height="150" src="images/spp-beanstalk-deploy.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/spp-beanstalk-deploy.png" style="padding-right: 1em;padding-bottom: 1em;">
   </a>
 <div class="text">
   In this project, I created a web app to predict the performance of students based on their academic background and past results.
@@ -185,7 +185,7 @@
 <p><strong><a href="https://github.com/GBlanch/Statistical-Methods">Statistical Methods and ML essays</Leg></a></strong></p>
 <div class="container_row">
   <a href="https://github.com/GBlanch/Statistical-Methods">
-  <img class="project_m" align="left" width="200" height="150" src="images/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
+  <img class="project_m" align="left" width="200" height="150" src="assets/bayesian.png" style="padding-right: 1em;padding-bottom: 1em;">
   </a>
 <div class="text">
   In this repository, I delve into some of the core concepts of Statistics and Probability I learned during my Bachelors of Science in Mechanical Engineering. 
