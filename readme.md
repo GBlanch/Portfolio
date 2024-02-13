@@ -105,7 +105,7 @@
     </a>
       <div class="text">
        In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. 
-       This was an excellent occasion to review key notions on Data modeling. The orchestration of the ETL process was executed with Mage.<p>
+       This was an excellent occasion to review key notions on Data modeling. The orchestration of the ETL process was executed with Mage.</p>
       </div>
 
   <h2 id="test" style = "clear : both; "></h2>
