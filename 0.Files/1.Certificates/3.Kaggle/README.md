@@ -4,6 +4,7 @@
 
 ### Some of my Machine Learning projects can be read in [in this repo](https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification) 
 
+---
 
 ## Kagle - SQL Advanced
 
