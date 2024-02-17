@@ -123,7 +123,6 @@
 
   <h2 id="test" style = "clear : both; "></h2>
   <br>
-
   <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/data-engineering-zoomcamp">
@@ -138,6 +137,7 @@
 
   </div>
 <h2 id="test" style = "clear : both; "></h2>
+<br>
 <p></p>
 
 <h3 id="data-science">Data <strong>Science</strong></h3>
