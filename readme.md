@@ -183,7 +183,7 @@
 </div>
 
 <h2 id="test" style = "clear : both; "></h2>
-
+<br>
 <p><strong><a href="https://github.com/GBlanch/Statistical-Methods">Statistical Methods and ML essays</Leg></a></strong></p>
 <div class="container_row">
   <a href="https://github.com/GBlanch/Statistical-Methods">
