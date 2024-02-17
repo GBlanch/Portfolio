@@ -95,7 +95,7 @@
 
   <h2 id="test" style = "clear : both; "></h2>
   <p></p>
-  
+  <br>
   <h3 id="data-engineering">Data <strong>Engineering</strong></h3>
 
   <p><strong><a href="https://github.com/GBlanch/GCP-Uber-Data-Engineering-project">GCP Uber end-to-end pipeline</a></strong></p>
