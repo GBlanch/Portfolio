@@ -34,7 +34,7 @@
   <h2 id="projects">Projects</h2>
   <p></p>
   <ul>
-  <h4 id="data-analysis">Data <strong>Analysis</strong></h4>
+  <h3 id="data-analysis">Data <strong>Analysis</strong></h3>
  
   <p><strong><a href="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification#readme">freeCodeCamp DA challenges</a></strong></p>
   <div class="container_row">
