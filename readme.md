@@ -64,7 +64,7 @@
   
 
   <h2 id="test" style = "clear : both; "></h2>
-
+<br>
   <p><strong><a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">Web Scraping</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">
@@ -79,7 +79,7 @@
     </div>
     
   <h2 id="test" style = "clear : both; "></h2>
-
+<br>
   <p><strong><a href="https://github.com/GBlanch/Dashboard-works/blob/main/README.md">Dashboard works</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Dashboard-works/blob/main/README.md">
