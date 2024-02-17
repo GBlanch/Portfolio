@@ -122,6 +122,7 @@
       </div>
 
   <h2 id="test" style = "clear : both; "></h2>
+  <br>
 
   <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
   <div class="container_row">
