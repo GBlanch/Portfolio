@@ -96,7 +96,7 @@
   <h2 id="test" style = "clear : both; "></h2>
   <p></p>
   
-  <h4 id="data-engineering">Data <strong>Engineering</strong></h4>
+  <h3 id="data-engineering">Data <strong>Engineering</strong></h3>
 
   <p><strong><a href="https://github.com/GBlanch/GCP-Uber-Data-Engineering-project">GCP Uber end-to-end pipeline</a></strong></p>
   <div class="container_row">
@@ -140,7 +140,7 @@
 <h2 id="test" style = "clear : both; "></h2>
 <p></p>
 
-<h4 id="data-science">Data <strong>Science</strong></h4>
+<h3 id="data-science">Data <strong>Science</strong></h3>
 
 <p><strong><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab/tree/main">WorldQuant University Applied DS Lab projects</a></strong></p>
 </a></strong></p>
