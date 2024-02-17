@@ -196,6 +196,7 @@
   Some of these subjects include:
 </div>
 </ul>
+  <br>
 <ul>
   <ul>
     <li><a href="https://github.com/GBlanch/Statistical-Methods/blob/main/0.BGD%20for%20a%20Simple%20Linear%20Regression/Cost-Loss%20Funct.%20and%20BGD.ipynb">Batch Gradient Descent for a Simple Linear Regression</a></li>
