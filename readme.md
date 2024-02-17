@@ -155,7 +155,7 @@
 </div>
 
 <h2 id="test" style = "clear : both; "></h2>
-
+<br>
 <p><strong><a href="https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification">fCC Machine Learning challenges</Leg></a></strong></p> 
 <div class="container_row">
   <a href="https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification">
