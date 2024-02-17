@@ -49,7 +49,7 @@
       </div>
 
   <h2 id="test" style = "clear : both; "></h2>
-
+<br>
   <p><strong><a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">SQL weekly case studies</a></strong></p>
   <div class="container_row">
       <a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">
