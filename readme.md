@@ -120,7 +120,7 @@
         From data ingestion into Data Factory to a brief elaboration of some Charts and Graphs within Synapse Analytics, 
         in this project I elaborated an end-to-end data pipeline utilizing resources from Microsoft Azure. Apache Spark was employed for data processing. </p>
       </div>
-
+  <br>
   <h2 id="test" style = "clear : both; "></h2>
   <br>
   <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
