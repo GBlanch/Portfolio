@@ -34,7 +34,7 @@
   <h2 id="projects">Projects</h2>
   <p></p>
   <ul>
-  <h4 id="data-analysis">Data <strong>Analysis</strong></h4>
+  <h3 id="data-analysis">Data <strong>Analysis</strong></h3>
  
   <p><strong><a href="https://github.com/GBlanch/fCC-Data-Analysis-with-Python-Certification#readme">freeCodeCamp DA challenges</a></strong></p>
   <div class="container_row">
@@ -49,7 +49,7 @@
       </div>
 
   <h2 id="test" style = "clear : both; "></h2>
-
+<br>
   <p><strong><a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">SQL weekly case studies</a></strong></p>
   <div class="container_row">
       <a href="https://github.com/GBlanch/SQL-weekly-challenges/tree/main#readme">
@@ -64,7 +64,7 @@
   
 
   <h2 id="test" style = "clear : both; "></h2>
-
+<br>
   <p><strong><a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">Web Scraping</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Python-with-BeautifulSoup-for-Web-Scraping/tree/main">
@@ -79,7 +79,7 @@
     </div>
     
   <h2 id="test" style = "clear : both; "></h2>
-
+<br>
   <p><strong><a href="https://github.com/GBlanch/Dashboard-works/blob/main/README.md">Dashboard works</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/Dashboard-works/blob/main/README.md">
@@ -95,8 +95,8 @@
 
   <h2 id="test" style = "clear : both; "></h2>
   <p></p>
-  
-  <h4 id="data-engineering">Data <strong>Engineering</strong></h4>
+  <br>
+  <h3 id="data-engineering">Data <strong>Engineering</strong></h3>
 
   <p><strong><a href="https://github.com/GBlanch/GCP-Uber-Data-Engineering-project">GCP Uber end-to-end pipeline</a></strong></p>
   <div class="container_row">
@@ -107,6 +107,7 @@
        In this project, I designed and detailed the core stages of an end-to-end data pipeline using Google Cloud Platforms as the main resource/service provider. 
        This was an excellent occasion to review key notions on Data modeling. The orchestration of the ETL process was executed with Mage.</p>
       </div>
+<br>
 
   <h2 id="test" style = "clear : both; "></h2>
 
@@ -119,9 +120,9 @@
         From data ingestion into Data Factory to a brief elaboration of some Charts and Graphs within Synapse Analytics, 
         in this project I elaborated an end-to-end data pipeline utilizing resources from Microsoft Azure. Apache Spark was employed for data processing. </p>
       </div>
-
+  <br>
   <h2 id="test" style = "clear : both; "></h2>
-
+  <br>
   <p><strong><a href="https://github.com/GBlanch/data-engineering-zoomcamp">DTC - Data Eng. Zoomcamp capstone project</a></strong></p>
   <div class="container_row">
     <a href="https://github.com/GBlanch/data-engineering-zoomcamp">
@@ -136,9 +137,10 @@
 
   </div>
 <h2 id="test" style = "clear : both; "></h2>
+<br>
 <p></p>
 
-<h4 id="data-science">Data <strong>Science</strong></h4>
+<h3 id="data-science">Data <strong>Science</strong></h3>
 
 <p><strong><a href="https://github.com/GBlanch/WorldQuant-University-Applied-DS-Lab/tree/main">WorldQuant University Applied DS Lab projects</a></strong></p>
 </a></strong></p>
@@ -154,6 +156,7 @@
 
 <h2 id="test" style = "clear : both; "></h2>
 
+<br>
 <p><strong><a href="https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification">fCC Machine Learning challenges</Leg></a></strong></p> 
 <div class="container_row">
   <a href="https://github.com/GBlanch/fCC-Machine-Learning-with-Python-Certification">
@@ -182,6 +185,8 @@
 
 <h2 id="test" style = "clear : both; "></h2>
 
+<br>
+
 <p><strong><a href="https://github.com/GBlanch/Statistical-Methods">Statistical Methods and ML essays</Leg></a></strong></p>
 <div class="container_row">
   <a href="https://github.com/GBlanch/Statistical-Methods">
@@ -194,6 +199,7 @@
   Some of these subjects include:
 </div>
 </ul>
+  <br>
 <ul>
   <ul>
     <li><a href="https://github.com/GBlanch/Statistical-Methods/blob/main/0.BGD%20for%20a%20Simple%20Linear%20Regression/Cost-Loss%20Funct.%20and%20BGD.ipynb">Batch Gradient Descent for a Simple Linear Regression</a></li>
